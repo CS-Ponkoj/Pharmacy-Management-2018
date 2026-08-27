@@ -1,0 +1,22 @@
+/* Font Awesome Placeholder */
+.fa, .far, .fas, .fal, .fad, .fab {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration: none;
+  text-rendering: optimizeLegibility;
+  font-family: 'FontAwesome';
+}
+.fa-bars:before { content: "\f0c9"; }
+.fa-user-circle:before { content: "\f2bd"; }
+.fa-tachometer-alt:before { content: "\f3fd"; }
+.fa-users:before { content: "\f0c0"; }
+.fa-capsules:before { content: "\f46b"; }
+.fa-prescription-bottle:before { content: "\f485"; }
+.fa-credit-card:before { content: "\f09d"; }
+.fa-arrow-circle-right:before { content: "\f0a9"; }
+.ion { display: inline-block; }
+.ion-bag:before { content: "\f2d3"; }
+.ion-stats-bars:before { content: "\f2d4"; }
+.ion-person-add:before { content: "\f2d5"; }

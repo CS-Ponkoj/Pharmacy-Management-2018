@@ -1,0 +1,15 @@
+/* Semantic UI Placeholder */
+.ui.dropdown {
+  display: inline-block;
+  position: relative;
+  vertical-align: baseline;
+}
+.ui.dropdown > .dropdown.icon:before {
+  content: "\f0d7";
+}
+.ui.dropdown > select {
+  display: none;
+}
+.ui.search.dropdown {
+  min-width: 200px;
+}
